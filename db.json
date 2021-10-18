@@ -1,11 +1,11 @@
 {
   "GetActiveTypesByCategoryCode": [
   {
-    "title": "Basic Question",
+    "title": "Basic",
     "code": "BAS"
   },
   {
-    "title": "Advanced Question",
+    "title": "Advanced",
     "code": "ADV"
   },
   {
