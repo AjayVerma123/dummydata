@@ -20,7 +20,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "What is JavaScript?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -31,7 +31,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "Enumerate the differences between Java and JavaScript?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -64,7 +64,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "What are JavaScript Data Types?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -75,7 +75,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "Which is faster between JavaScript and an ASP script?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -86,7 +86,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "Is it possible to break JavaScript Code into several lines?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -97,7 +97,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "What are undeclared and undefined variables?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -108,7 +108,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "Write the code for adding new elements dynamically?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -119,7 +119,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "What are global variables? How are these variable declared?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -130,7 +130,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "What is ‘this’ keyword in JavaScript?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -141,7 +141,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "What is the difference between ViewState and SessionState?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -152,7 +152,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
+    "title": "How you can submit a form using JavaScript?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
@@ -163,7 +163,7 @@
     "categoryCode": "JS",
     "type": "Basic Question",
     "typeCode": "BAS",
-    "title": "What is JavaScript?",
+    "title": "Does JavaScript support automatic type conversion?",
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
