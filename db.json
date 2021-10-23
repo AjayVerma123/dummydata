@@ -343,28 +343,6 @@
     "publishedToUser": true,
     "postedBy": "Admin User",
     "postedDate": "2021-10-07T09:47:33"
-  },
-  {
-    "id": 1,
-    "category": "Java Script",
-    "categoryCode": "JS",
-    "type": "Basic Question",
-    "typeCode": "BAS",
-    "title": "What are the data types supported by JavaScript?",
-    "publishedToUser": true,
-    "postedBy": "Admin User",
-    "postedDate": "2021-10-07T09:47:33"
-  },
-  {
-    "id": 2,
-    "category": "Java Script",
-    "categoryCode": "JS",
-    "type": "Basic Question",
-    "typeCode": "BAS",
-    "title": "What is JavaScript?",
-    "publishedToUser": true,
-    "postedBy": "Admin User",
-    "postedDate": "2021-10-07T09:47:33"
   }
 ]
 }
