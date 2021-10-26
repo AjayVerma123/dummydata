@@ -1,15 +1,19 @@
 {
   "GetActiveTypesByCategoryCode": [
   {
-    "title": "Basic",
+    "title": "Fresher",
     "code": "BAS"
   },
   {
-    "title": "Advanced",
+    "title": "Experienced",
     "code": "ADV"
   },
   {
-    "title": "Programing",
+    "title": "Programs",
+    "code": "PRO"
+  },
+  {
+    "title": "Things To Remember",
     "code": "PRO"
   }
 ],
