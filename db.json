@@ -198,5 +198,31 @@
     "postedDate": "2021-10-07T09:47:33",
 	"lastModified": "2021-10-31T00:06:33"
   }
+],
+"Answers":[
+  {
+    "id": 6,
+    "questionId": 3,
+    "text": "A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses (). Function names can contain letters, digits, underscores, and dollar signs (same rules as variables). The parentheses may include parameter names separated by commas: (parameter1, parameter2,...)\n\nRead More..",
+    "isExternalUrl": false,
+    "isActive": true,
+    "postedDate": "2021-11-01T08:56:37"
+  },
+  {
+    "id": 5,
+    "questionId": 3,
+    "text": "https://www.w3schools.com/js/js_functions.asp#:~:text=A%20JavaScript%20function%20is%20defined%20with%20the%20function,include%20parameter%20names%20separated%20by%20commas%3A%20%28parameter1%2C%20parameter2%2C...%29",
+    "isExternalUrl": true,
+    "isActive": true,
+    "postedDate": "2021-11-01T08:56:46"
+  },
+  {
+    "id": 1,
+    "questionId": 3,
+    "text": "A named function declares a name as soon as it is defined. It can be defined using function keyword as :\n\nfunction named() {\n   // write code here\n}\n\nThe navigation experience provided by Xamarin.Forms Shell is based on flyouts and tabs. The top-level of navigation in a Shell application is either a flyout or a bottom tab bar, depending on the navigation requirements of the application. When the navigation experience for an application begins with bottom tabs, the child of the subclassed Shell object should be a TabBar object, which represents the bottom tab bar.",
+    "isExternalUrl": false,
+    "isActive": false,
+    "postedDate": "2021-10-07T09:56:02"
+  }
 ]
 }
