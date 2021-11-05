@@ -199,8 +199,7 @@
 	"lastModified": "2021-10-31T00:06:33"
   }
 ],
-"Answers":[
-  {
+"Answers":{
   "id": 3,
   "title": "Java programming language - Latest Results",
   "answers": [
@@ -214,5 +213,4 @@
     }
   ]
 }
-]
 }
