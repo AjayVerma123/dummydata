@@ -200,15 +200,15 @@
   }
 ],
 "Answers":{
-  "id": 3,
-  "title": "Java programming language - Latest Results Java programming language - Latest Results",
+  "id": 8,
+  "title": "Difference between var, let, and const keyword in Java Script ?",
   "answers": [
     {
-      "text": "Dive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।\n\nDive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।\n\nDive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।\n\nDive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।\n\nDive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।Dive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।Dive into theory and complete numerous practice exercises to master your coding skills. Codefinity: best online coding courses designed specifically for beginners. Interactive Training। Created by Professionals। Coding Skills Boost। Best Programming Courses।",
-      "isExternalUrl": true
+      "text": "There are three major differences between let and var.<div><br></div><div>1. The variable declared with var can be used anywhere within a function. For example,<br></div><div><br></div><div><div>function greet() {</div><div>&#160; &#160; var a = 'hello';</div><div>&#160; &#160; console.log(a);</div><div>}</div><div>greet();</div><div><br></div><div>The program will print Hello.</div></div><div><br></div><div>The variable declared with let can only be accessed inside a block of code. For example,<br></div><div><br></div><div><div>function greet() {</div><div>&#160; &#160; let a = 'hello';</div><div><br></div><div>&#160; &#160; // variable b cannot be used here</div><div>&#160; &#160; if(a == 'hello'){</div><div>&#160; &#160; &#160; &#160; // variable b can be used here</div><div>&#160; &#160; &#160; &#160; let b = 'world';</div><div>&#160; &#160; &#160; &#160; console.log(a + ' ' + b);</div><div>&#160; &#160; }</div><div><br></div><div>&#160; &#160; &#160;// variable b cannot be used here</div><div>&#160; &#160; console.log(a + ' ' + b); // error</div><div>}</div><div>// variable a cannot be used here</div><div><br></div><div>greet();</div></div><div><br></div><div>Read more here...</div>",
+      "isExternalUrl": false
     },
     {
-      "text": "Get form control value in angular 8 in HTML code example. Example: angular access form control value. formGroup.controls['nameOfTheField'].value. Tags:.",
+      "text": "https://www.programiz.com/javascript/let-vs-var",
       "isExternalUrl": true
     }
   ]
