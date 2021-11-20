@@ -1,15 +1,15 @@
 {
 "GetActiveTypesByCategoryCode": [
   {
-    "title": "Fresher",
+    "title": "Fresher Question",
     "code": "BAS"
   },
   {
-    "title": "Experienced",
+    "title": "Experienced Question",
     "code": "ADV"
   },
   {
-    "title": "Programs",
+    "title": "Programing Question",
     "code": "PRO"
   },
   {
@@ -17,15 +17,15 @@
     "code": "PRO"
   },
   {
-    "title": "Fresher",
+    "title": "Fresher Question",
     "code": "BAS"
   },
   {
-    "title": "Experienced",
+    "title": "Experienced Question",
     "code": "ADV"
   },
   {
-    "title": "Programs",
+    "title": "Programing Question",
     "code": "PRO"
   },
   {
@@ -33,15 +33,15 @@
     "code": "PRO"
   },
   {
-    "title": "Fresher",
+    "title": "Fresher Question",
     "code": "BAS"
   },
   {
-    "title": "Experienced",
+    "title": "Experienced Question",
     "code": "ADV"
   },
   {
-    "title": "Programs",
+    "title": "Programing Question",
     "code": "PRO"
   },
   {
@@ -49,15 +49,15 @@
     "code": "PRO"
   },
   {
-    "title": "Fresher",
+    "title": "Fresher Question",
     "code": "BAS"
   },
   {
-    "title": "Experienced",
+    "title": "Experienced Question",
     "code": "ADV"
   },
   {
-    "title": "Programs",
+    "title": "Programing Question",
     "code": "PRO"
   },
   {
