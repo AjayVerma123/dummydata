@@ -204,29 +204,19 @@
   "title": "Difference between var, let, and const keyword in Java Script ?",
   "answers": [
     {
-      "text": "There are three major differences between let and var.<div><br></div><div>1. The variable declared with var can be used anywhere within a function. For example,<br></div><div><br></div><div><div>function greet() {</div><div>&#160; &#160; var a = 'hello';</div><div>&#160; &#160; console.log(a);</div><div>}</div><div>greet();</div><div><br></div><div>The program will print Hello.</div></div><div><br></div><div>The variable declared with let can only be accessed inside a block of code. For example,<br></div><div><br></div><div><div>function greet() {</div><div>&#160; &#160; let a = 'hello';</div><div><br></div><div>&#160; &#160; // variable b cannot be used here</div><div>&#160; &#160; if(a == 'hello'){</div><div>&#160; &#160; &#160; &#160; // variable b can be used here</div><div>&#160; &#160; &#160; &#160; let b = 'world';</div><div>&#160; &#160; &#160; &#160; console.log(a + ' ' + b);</div><div>&#160; &#160; }</div><div><br></div><div>&#160; &#160; &#160;// variable b cannot be used here</div><div>&#160; &#160; console.log(a + ' ' + b); // error</div><div>}</div><div>// variable a cannot be used here</div><div><br></div><div>greet();</div></div><div><br></div><div>Read more here...</div>",
+      "text": "<p><strong>1.</strong> Web workers are designed to let you run big jobs without freezing up the page.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>2.</strong> Web workers let you do any time-consuming job in the background.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>3.</strong> A worker is an object created using a constructor (e.g. <strong>Worker()</strong>) that runs a named JavaScript file &mdash; this file contains the code that will run in the worker thread; workers run in another global context that is different from the current window.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>4.</strong> Data is sent between workers and the main thread via a system of messages &mdash; both sides send their messages using the <code>postMessage()</code> method, and respond to messages via the <code>onmessage</code> event handler</p>\n\n<p>&nbsp;</p>\n\n<p><strong>5. </strong>you can&#39;t directly manipulate the DOM from inside a worker, or use some default methods and properties of the window object.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Read more..</strong></p>\n",
       "isExternalUrl": false
     },
+  "relatedQuestions": [
     {
-      "text": "https://www.programiz.com/javascript/let-vs-var",
-      "isExternalUrl": true
+      "questionId": 36,
+      "title": "<p><strong>What are primitive and reference data types.</strong></p>"
     },
-	{
-      "text": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
-      "isExternalUrl": true
-    },
-	{
-      "text": "https://www.programiz.com/javascript/let-vs-var",
-      "isExternalUrl": true
-    },
-	{
-      "text": "https://www.programiz.com/javascript/let-vs-var",
-      "isExternalUrl": true
-    },
-	{
-      "text": "https://www.programiz.com/javascript/let-vs-var",
-      "isExternalUrl": true
+    {
+      "questionId": 36,
+      "title": "<p><strong>What are primitive and reference data types.</strong></p>"
     }
+  ]
   ]
 },
 "Notifications":[
